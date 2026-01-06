@@ -67,6 +67,7 @@ nav .menu a {
 }
 #banner .banner-content{
     max-width: 585px;
+    
 }
 
 #banner{
@@ -98,5 +99,5 @@ nav .menu a {
 
 #banner .banner-image{
     max-width: 585px;
-    vertical-align:middle ;
+    vertical-align: middle;
 }
